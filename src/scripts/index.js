@@ -7,7 +7,7 @@ var slider = tns({
   container: ".slider-a",
   items: 4,
   speed: 400,
-  gutter: 20,
+  // gutter: 20,
   controls: true,
   controlsContainer: ".slider-a__controls",
   nav: false,
